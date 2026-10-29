@@ -15,11 +15,11 @@ for operability (metrics, alerts, backfills, migrations), and connect design to 
 (teams, ownership boundaries, rollout plan).
 
 ## Practice set (mapped to Layer 1 — practice doubles as resume defense)
-- [ ] ML inference platform (multi-tenant, GPU scheduling) — Apple serving
+- [ ] ML inference platform (multi-tenant, GPU scheduling) — current-employer serving
 - [ ] Card authorization system (latency budget, exactly-once) — Marqeta/Visa
 - [ ] Streaming event pipeline with fraud scoring — Marqeta
-- [ ] Model/artifact catalog with lifecycle gates — Apple catalog
-- [ ] Multi-tenant API gateway with fine-grained authZ — Apple gateway
+- [ ] Model/artifact catalog with lifecycle gates — current-employer catalog
+- [ ] Multi-tenant API gateway with fine-grained authZ — current-employer gateway
 - [ ] Rate limiter / quota service (classic, know it cold)
 - [ ] Metrics & observability pipeline (high-cardinality ingestion)
 - [ ] Workflow orchestration / job scheduler (Argo/Temporal-style)

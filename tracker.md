@@ -2,9 +2,9 @@
 
 ## Layer 1 — Resume depth
 - [ ] Skills map reviewed (01-resume-depth/skills-to-master.md)
-- [ ] Apple — model serving platform card defended out loud
-- [ ] Apple — lifecycle pipeline & v3 catalog card defended out loud
-- [ ] Apple — inference gateway card defended out loud
+- [ ] Current Employer — model serving platform card defended out loud
+- [ ] Current Employer — lifecycle pipeline & v3 catalog card defended out loud
+- [ ] Current Employer — inference gateway card defended out loud
 - [ ] Marqeta — authorization platform card defended out loud
 - [ ] Visa — tokenization & migration card defended out loud
 - [ ] Osprey — telecom charging card defended out loud

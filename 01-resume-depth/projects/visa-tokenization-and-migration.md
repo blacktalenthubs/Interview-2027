@@ -2,7 +2,7 @@
 Role: Senior SWE, Platform Engineering · Denver
 
 ## Impact
-- Card provisioning for Apple Pay / Google Pay / Samsung Pay tokenization at network scale.
+- Card provisioning for the three major mobile wallets tokenization at network scale.
 - 12+ microservices migrated on-prem → AWS EKS with zero downtime; pattern became the org standard.
 - p99 latency −60% on the transaction history service; 99.99% availability DR for payment authorization.
 
