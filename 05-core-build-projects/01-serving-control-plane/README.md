@@ -7,6 +7,14 @@ operator that lets ML teams deploy models without writing manifests, a migration
 to KServe with both paths running side-by-side, and admission-time GPU
 scheduling that raises utilization from ~40% to ~80%.
 
+## Documents
+
+- [knowledge-depth.md](knowledge-depth.md) — the study gate: all core
+  concepts, architectures, examples, and failure modes for this project,
+  with a self-check that must pass before design starts.
+- `design.md` — architecture, API contracts, and build plan (created after
+  the knowledge-depth gate passes).
+
 ## Resume coverage
 
 - Lead design and delivery of the model serving platform used by internal ML
